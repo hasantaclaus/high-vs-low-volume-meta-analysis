@@ -1,1 +1,1 @@
-# high-vs-low-volume-meta-analysis
+# training-frequency-vs-intensity-meta-analysis
